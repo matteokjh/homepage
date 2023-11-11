@@ -1,0 +1,111 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/bookmarks
+# xxx.png: https://github.com/walkxcode/dashboard-icons/tree/main/png
+# mdi-xxx.png: https://pictogrammers.com/library/mdi/
+# si-xxx.png: https://simpleicons.org/
+
+- Developer:
+    - Github:
+        - icon: github-light.png
+          href: https://github.com/
+    - StackOverflow:
+        - icon: si-stackoverflow
+          href: https://stackoverflow.com/
+    - LeetCode:
+        - icon: si-leetcode
+          href: https://leetcode.com/
+    - LeetCode CN:
+        - href: https://leetcode.cn/
+          icon: https://assets.leetcode.cn/aliyun-lc-upload/users/leetcode-solution/avatar_1582018938.png?x-oss-process=image%2Fformat%2Cwebp
+    - Vercel:
+        - href: https://vercel.com
+          icon: si-vercel
+    - NextJs:
+        - href: https://nextjs.org/
+          icon: https://api-frameworks.vercel.sh/framework-logos/next.svg
+    - TRpc:
+        - href: https://trpc.io/
+          icon: https://trpc.io/img/logo.svg
+    - Prisma:
+        - href: https://www.prisma.io/
+          icon: https://prismalens.vercel.app/header/prisma-logo.svg
+    - Rust Learning:
+        - href: https://rust-book.cs.brown.edu/
+          icon: https://rust-book.cs.brown.edu/favicon.svg
+    - Code Sandbox:
+        - href: https://codesandbox.io
+          icon: si-codesandbox
+    - KaTex:
+        - href: https://katex.org/docs/supported.html
+          icon: si-latex
+    - Expo:
+        - href: https://expo.dev/
+          icon: si-expo
+    - firebase:
+        - href: https://console.firebase.google.com/?pli=1
+          icon: si-firebase
+    - 100 Days of Swift:
+        - href: https://www.hackingwithswift.com/100
+          icon: si-swift
+
+- Social:
+    - Reddit:
+        - icon: reddit.png
+          href: https://reddit.com/
+    - Twitter:
+        - icon: twitter.png
+          href: https://twitter.com
+    - Facebook:
+        - icon: facebook.png
+          href: https://www.facebook.com/
+    - Instagram:
+        - icon: instagram.png
+          href: https://www.instagram.com/
+    - Medium:
+        - icon: si-medium
+          href: https://medium.com/
+    - ZhiHu:
+        - icon: si-zhihu
+          href: https://www.zhihu.com/hot
+    - Juejin:
+        - icon: https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg
+          href: https://juejin.cn/
+    - Outlook:
+        - icon: si-microsoftoutlook
+          href: https://outlook.live.com/
+
+- Entertainment:
+    - YouTube:
+        - icon: youtube.png
+          href: https://youtube.com/
+    - Bilibili:
+        - icon: si-bilibili
+          href: https://bilibili.com/
+    - TikTok:
+        - href: https://www.tiktok.com/foryou
+          icon: https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/192x192-1.png
+
+- Design:
+    - PageCollective:
+        - href: https://pagecollective.com/
+          icon: si-pagerduty
+    - Screen Lane:
+        - href: https://screenlane.com/
+          icon: https://screenlane.com/static/website/images/logo.png
+    - Color Hunt:
+        - href: https://colorhunt.co/
+    - Simple Icons:
+        - href: https://simpleicons.org/?q=speedtest
+          icon: si-simpleicons
+    - Material UI:
+        - href: https://mui.com/
+          icon: si-mui
+    - UI Kitten:
+        - href: https://akveo.github.io/react-native-ui-kitten/
+    - NativeWind:
+        - href: https://www.nativewind.dev/customization/theme#per-platform-theme-values
+          icon: si-tailwindcss
+    - Tailwind:
+        - href: https://tailwindcss.com/
+          icon: si-tailwindcss

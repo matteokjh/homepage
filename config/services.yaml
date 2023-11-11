@@ -1,0 +1,46 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+
+- Mostly Used:
+    - Notion:
+        href: https://notion.so
+        icon: notion.png
+        description: Docs
+    - ChatGpt:
+        href: https://chat.openai.com/
+        icon: si-openai
+        description: ChatGpt
+
+- Learning:
+    - Udemy:
+        href: https://www.udemy.com/
+        icon: udemy.png
+        description: Online Learning
+    - Magoosh:
+        href: https://ieltsgt.magoosh.com/dashboard
+        icon: https://ieltsgt.magoosh.com/favicon-32x32.png
+        description: IELTS
+    - Coursera:
+        href: https://www.coursera.org/
+        icon: si-coursera
+
+- Tools:
+    - Longman:
+        href: https://www.ldoceonline.com/
+        icon: https://www.ldoceonline.com/external/images/logo_home_smartphone.svg?version=1.2.64
+        description: Dictionary
+    - YaHoo Japan:
+        href: https://chiebukuro.yahoo.co.jp/
+        icon: si-yahoo
+    - Speed Test:
+        href: https://www.speedtest.net/
+        icon: si-speedtest
+
+- News:
+    - BBC News:
+        href: https://www.bbc.com/news
+        icon: si-bbc
+    - Science Daily:
+        href: https://www.sciencedaily.com/
+        icon: https://www.sciencedaily.com/favicon.ico
