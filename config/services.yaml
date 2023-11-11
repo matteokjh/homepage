@@ -23,3 +23,8 @@
         href: https://www.ldoceonline.com/
         icon: https://www.ldoceonline.com/external/images/logo_home_smartphone.svg?version=1.2.64
         description: Dictionary
+    - widget:
+        type: adguard
+        url: http://adguard.host.or.ip
+        username: admin
+        password: password
