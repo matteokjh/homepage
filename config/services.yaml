@@ -1,0 +1,25 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+
+- Most Used:
+    - Notion:
+        icon: notion.png
+        href: https://www.notion.so/
+        description: Docs
+
+- Learning:
+    - Udemy:
+        href: https://www.udemy.com/
+        icon: udemy.png
+        description: Online Learning
+    - Magoosh:
+        href: https://ieltsgt.magoosh.com/dashboard
+        icon: https://ieltsgt.magoosh.com/favicon-32x32.png
+        description: IELTS
+
+- Tools:
+    - Longman:
+        href: https://www.ldoceonline.com/
+        icon: https://www.ldoceonline.com/external/images/logo_home_smartphone.svg?version=1.2.64
+        description: Dictionary
