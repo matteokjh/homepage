@@ -6,6 +6,8 @@
 # si-xxx.png: https://simpleicons.org/
 
 - Developer:
+    - imagekit:
+        - href: https://imagekit.io/dashboard/media-library
     - TRpc:
         - href: https://trpc.io/
           icon: https://trpc.io/img/logo.svg
@@ -43,6 +45,9 @@
           icon: https://sf16-sg.tiktokcdn.com/obj/eden-sg/uvkuhyieh7lpqpbj/pwa/192x192-1.png
 
 - Design:
+    - IconScout:
+        - href: https://iconscout.com/
+          icon: https://ik.imagekit.io/kdn3owxox/iconscout.svg?updatedAt=1699803771858
     - PageCollective:
         - href: https://pagecollective.com/
           icon: si-pagerduty
