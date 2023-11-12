@@ -13,6 +13,7 @@ const nextConfig = {
   },
   env: {
     version: uuidv4(),
+    buildTime: Date.now(),
   },
   i18n,
 };

@@ -3,9 +3,7 @@ import { useTranslation } from "next-i18next";
 export default function Version() {
   const { i18n } = useTranslation();
 
-  const buildTime = process.env.NEXT_PUBLIC_BUILDTIME?.length
-    ? process.env.NEXT_PUBLIC_BUILDTIME
-    : new Date().toISOString();
+  const buildTime = process.env.buildTime ?? new Date().toISOString();
   const version = process.env.version ?? "dev";
 
   // use Intl.DateTimeFormat to format the date
