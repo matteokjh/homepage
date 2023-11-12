@@ -1,3 +1,5 @@
+const { v4: uuidv4 } = require("uuid");
+
 const { i18n } = require("./next-i18next.config");
 
 /** @type {import('next').NextConfig} */
@@ -10,7 +12,7 @@ const nextConfig = {
     unoptimized: true,
   },
   env: {
-    VERSION: process.env.GIT_HASH || "dev",
+    version: uuidv4(),
   },
   i18n,
 };

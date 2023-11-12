@@ -38,6 +38,7 @@
     "systeminformation": "^5.17.12",
     "tough-cookie": "^4.1.2",
     "urbackup-server-api": "^0.8.9",
+    "uuid": "^9.0.1",
     "winston": "^3.8.2",
     "xml-js": "^1.6.11"
   },

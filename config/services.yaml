@@ -11,6 +11,50 @@
         href: https://chat.openai.com/
         icon: si-openai
         description: ChatGpt
+    - Github:
+        icon: github-light.png
+        href: https://github.com/
+    - StackOverflow:
+        icon: si-stackoverflow
+        href: https://stackoverflow.com/
+    - LeetCode:
+        icon: si-leetcode
+        href: https://leetcode.com/
+    - LeetCode CN:
+        href: https://leetcode.cn/
+        icon: https://assets.leetcode.cn/aliyun-lc-upload/users/leetcode-solution/avatar_1582018938.png?x-oss-process=image%2Fformat%2Cwebp
+    - Vercel:
+        href: https://vercel.com
+        icon: si-vercel
+    - NextJs:
+        href: https://nextjs.org/
+        icon: https://api-frameworks.vercel.sh/framework-logos/next.svg
+
+- Social:
+    - Reddit:
+        icon: reddit.png
+        href: https://reddit.com/
+    - Twitter:
+        icon: twitter.png
+        href: https://twitter.com
+    - Facebook:
+        icon: facebook.png
+        href: https://www.facebook.com/
+    - Instagram:
+        icon: instagram.png
+        href: https://www.instagram.com/
+    - Medium:
+        icon: si-medium
+        href: https://medium.com/
+    - ZhiHu:
+        icon: si-zhihu
+        href: https://www.zhihu.com/hot
+    - Juejin:
+        icon: https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg
+        href: https://juejin.cn/
+    - Outlook:
+        icon: si-microsoftoutlook
+        href: https://outlook.live.com/
 
 - Learning:
     - Udemy:
@@ -24,8 +68,6 @@
     - Coursera:
         href: https://www.coursera.org/
         icon: si-coursera
-
-- Tools:
     - Longman:
         href: https://www.ldoceonline.com/
         icon: https://www.ldoceonline.com/external/images/logo_home_smartphone.svg?version=1.2.64
