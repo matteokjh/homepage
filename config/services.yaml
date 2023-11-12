@@ -41,6 +41,22 @@
     - BBC News:
         href: https://www.bbc.com/news
         icon: si-bbc
+    - BBC Sounds:
+        href: https://www.bbc.co.uk/sounds/play/live:bbc_world_service
+        icon: si-bbc
     - Science Daily:
         href: https://www.sciencedaily.com/
         icon: https://www.sciencedaily.com/favicon.ico
+    - TED:
+        href: https://www.ted.com/
+        icon: si-ted
+    - This I Believe:
+        href: https://thisibelieve.org/essays/featured/
+    - British Council:
+        href: https://learnenglish.britishcouncil.org/skills/listening
+        icon: https://learnenglish.britishcouncil.org/sites/podcasts/themes/bc_ui/logo.svg
+    - ABC News:
+        href: https://www.abc.net.au/
+        icon: https://www.abc.net.au/core-assets/core/favicon-32x32.png
+    - Elllo:
+        href: https://elllo.org/archive/
