@@ -15,7 +15,8 @@ export default function Version() {
       month: "short",
       day: "numeric",
       hour: "numeric",
-      minutes: "numeric",
+      minute: "numeric",
+      second: "numeric",
       timeZoneName: "short",
     };
     return new Intl.DateTimeFormat(i18n.language, options).format(new Date(date));
