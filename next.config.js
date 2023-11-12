@@ -9,6 +9,9 @@ const nextConfig = {
     domains: ["cdn.jsdelivr.net"],
     unoptimized: true,
   },
+  env: {
+    VERSION: process.env.GIT_HASH || "dev",
+  },
   i18n,
 };
 
