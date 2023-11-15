@@ -102,3 +102,15 @@
         icon: https://www.abc.net.au/core-assets/core/favicon-32x32.png
     - Elllo:
         href: https://elllo.org/archive/
+    - Science Friday:
+        href: https://www.sciencefriday.com/episodes/
+        icon: https://www.sciencefriday.com/wp-content/themes/sciencefriday/images/logos/logo-scifri.svg
+    - CBC Radio:
+        href: https://www.cbc.ca/radio/shows
+        icon: https://www.cbc.ca/a/images/logo_gem.svg
+    - Open Yale Courses:
+        href: https://oyc.yale.edu/courses
+        icon: si-yale
+    - Oxford Podcasts:
+        href: https://podcasts.ox.ac.uk/series
+        icon: https://podcasts.ox.ac.uk/themes/custom/ox_podcasts_ui/logo.svg
