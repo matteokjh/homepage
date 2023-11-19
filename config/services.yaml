@@ -29,6 +29,9 @@
     - NextJs:
         href: https://nextjs.org/
         icon: https://api-frameworks.vercel.sh/framework-logos/next.svg
+    - Google Colab:
+        href: https://colab.research.google.com/drive
+        icon: si-googlecolab
 
 - Social:
     - Reddit:
