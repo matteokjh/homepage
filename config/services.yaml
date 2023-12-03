@@ -3,6 +3,10 @@
 # https://gethomepage.dev/latest/configs/services
 
 - Mostly Used:
+    - Devv.ai:
+        href: https://devv.ai/
+        icon: https://devv.ai/favicon-light.png
+        description: AI Learning
     - Notion:
         href: https://notion.so
         icon: notion.png
